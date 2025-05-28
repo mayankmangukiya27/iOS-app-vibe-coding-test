@@ -45,6 +45,8 @@ pod install
 4. Create a new file named `Config.xcconfig` in the project root and add your OpenAI API key:
 ```
 OPENAI_API_KEY = your_api_key_here
+// "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"
+        
 ```
 
 5. Build and run the project (⌘+R)
